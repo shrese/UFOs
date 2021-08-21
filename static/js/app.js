@@ -20,7 +20,7 @@ function buildTable(data) {
       cell.text(val);
       }
     );
-  });
+  }); 
 }
 
 function handleclick () {
